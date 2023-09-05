@@ -1,5 +1,5 @@
 # 🎀 luraph-deobfuscator
-Today, we'll propose to you our Luraph Deobfscator Service
+Today, we'll propose to you our Luraph Deobfscator Service <br>
 [Preview] -> https://www.youtube.com/watch?v=I0oTM7TuUdM
 
 [Discord] -> https://discord.gg/b9GAkfkRbH
