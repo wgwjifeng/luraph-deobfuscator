@@ -1,4 +1,4 @@
-# 🎀 luraph-deobfscator
+# 🎀 luraph-deobfuscate 
 Today, we'll propose to you our Luraph Deobfscator Service
 [Preview] -> https://www.youtube.com/watch?v=I0oTM7TuUdM
 
